@@ -6,6 +6,7 @@ LiquidCrystal_I2C lcd(0x27,16,2);
 
 const int stsp = A0;
 const int inc = A1;
+
 const int dec = A2;
 const int set = A3;
 const int buzz = 9;
